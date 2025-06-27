@@ -1,0 +1,10 @@
+build:
+  version: 3.0
+accounts:
+  message: "Welcome to Viral accounts related local APIs "
+  contactDetails:
+    name: "Viral Patel - Developer"
+    email: "viral@space.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
