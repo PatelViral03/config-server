@@ -1,7 +1,7 @@
 build:
   version: 1.0
 accounts:
-  message: "Welcome to Viral cards related Production APIs "
+  message: "Welcome to Viral cards related prod APIs "
   contactDetails:
     name: "Tony - Production Lead"
     email: "tony@space.com"
