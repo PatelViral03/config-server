@@ -1,7 +1,7 @@
 build:
   version: 2.0
 accounts:
-  message: "Welcome to Viral loan related Quality Assurance APIs "
+  message: "Welcome to Viral loan related QA APIs "
   contactDetails:
     name: "spacewalk - QA Lead"
     email: "spacewalk@space.com"
