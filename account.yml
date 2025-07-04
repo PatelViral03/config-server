@@ -1,7 +1,7 @@
 build:
   version: 3.0
 accounts:
-  message: "Welcome to Viral accounts related docker APIs "
+  message: "Welcome to Viral accounts related hello APIs "
   contactDetails:
     name: "Viral Patel - Developer"
     email: "viral@space.com"
